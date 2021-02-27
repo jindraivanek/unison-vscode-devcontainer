@@ -1,3 +1,7 @@
+Modified unisonweb/vscode-devcontainer to build `ucm` from source.
+
+---
+
 This is a [VS Code development container](https://github.com/microsoft/vscode-dev-containers) for the [Unison Codebase Manager](https://github.com/unisonweb/unison).
 
 You can check that first link for the full details of how to get set up to use VS Code development containers, but the gist of it is:
